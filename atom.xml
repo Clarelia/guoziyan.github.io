@@ -1,24 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>深</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-02-12T02:23:04.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://guoziyan.github.io/"/>
+  <updated>2016-02-13T02:15:58.000Z</updated>
+  <id>https://guoziyan.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>李晓辉</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>开始</title>
+    <link href="https://guoziyan.github.io/2016/02/13/begin/"/>
+    <id>https://guoziyan.github.io/2016/02/13/begin/</id>
+    <published>2016-02-13T01:45:33.000Z</published>
+    <updated>2016-02-13T02:15:58.000Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;u75AF_u72C2_u8865_u77E5_u8BC6ing_uFF5E_uFF5E&quot;&gt;&lt;a href=&quot;#u75AF_u72C2_u8865_u77E5_u8BC6ing_uFF5E_uFF5E&quot; class=&quot;headerlink&quot; title=&quot;疯狂补知识ing～～&quot;&gt;&lt;/a&gt;疯狂补知识ing～～&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;后端&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Docker&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Spark(奇怪的Scala API的语法)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hadoop&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;网站架构&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;...&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;以及yii&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;前端&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;React&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;组件化&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;全栈&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;...&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;梦想&lt;/strong&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;u75AF_u72C2_u8865_u77E5_u8BC6ing_uFF5E_uFF5E&quot;&gt;&lt;a href=&quot;#u75AF_u72C2_u8865_u77E5_u8BC6ing_uFF5E_uFF5E&quot; class=&quot;headerlink&quot; title=&quot;疯狂补知
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/02/12/hello-world/"/>
-    <id>http://yoursite.com/2016/02/12/hello-world/</id>
+    <link href="https://guoziyan.github.io/2016/02/12/hello-world/"/>
+    <id>https://guoziyan.github.io/2016/02/12/hello-world/</id>
     <published>2016-02-12T02:23:04.000Z</published>
     <updated>2016-02-12T02:23:04.000Z</updated>
     
